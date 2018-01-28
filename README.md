@@ -1,2 +1,3 @@
-# DeepSentiment
-Sentiment Analysis using Deep Learning
+# Sentiment Analysis using Deep Learning
+
+This project is an experiment to perform sentiment analysis 
